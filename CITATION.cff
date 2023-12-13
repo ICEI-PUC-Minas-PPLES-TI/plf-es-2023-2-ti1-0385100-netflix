@@ -1,32 +1,35 @@
 <<<<<<< HEAD
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: 
+title: FlixFinder
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
+  - family-names: Curi Kramberger
+    given-names: Arthur
+  - family-names: Alves
+    given-names: Nicolas
+  - family-names: Baetta
+    given-names: Daniel
+  - family-names: Gasparini
+    given-names: Jõao Victor
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Felipe Dias Ferreira da Rocha
+    given-names: Roberto
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Vieira Carneiro
+    given-names: Rommel
 keywords:
-  - 
-  - 
-repository-code: 
+  - Filmes
+  - Series
+  - Economizar Tempo
+  - Netflix
+  - Prime
+  - Disney
+  - Ator
+  - Sistema Inteligente
+  - Facilitador
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-2-ti1-0385100-netflix
 license: CC-BY-4.0
 version: 1.0.0
 date-released: 2022-07-14
@@ -35,30 +38,33 @@ cff-version: 1.0.1
 message: Please cite this software using these metadata.
 title: 
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
+  - family-names: Curi Kramberger
+    given-names: Arthur
+  - family-names: Alves
+    given-names: Nicolas
+  - family-names: Baetta
+    given-names: Daniel
+  - family-names: Gasparini
+    given-names: Jõao Victor
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Felipe Dias Ferreira da Rocha
+    given-names: Roberto
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Vieira Carneiro
+    given-names: Rommel
 keywords:
-  - 
-  - 
-repository-code: 
+  - Filmes
+  - Series
+  - Economizar Tempo
+  - Netflix
+  - Prime
+  - Disney
+  - Ator
+  - Sistema Inteligente
+  - Facilitador
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-2-ti1-0385100-netflix
 license: CC-BY-4.0
 version: 1.0.0
 date-released: 2022-07-14
